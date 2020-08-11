@@ -11,31 +11,50 @@ const config = {
   },
 };
 const airtableBaseURL = "https://api.airtable.com/v0/apppSjiUMTolFIo1P/";
+
+/**
+ * A Table Object to upload
+ * 
+ * @typedef {Object} TableObject
+ * @property {string} encoded - UriEncoded table name for the URL endpoint
+ * @property {string} spaced - Table name as it appears in the Airtable tabs
+ * @property {string} underscored - Underscored variant of the spaced name, used as the uploaded file's name
+ * @property {string} type - String that corresponds to the class / mapping function in the frontend
+ */
+
+/**
+ * @type {TableObject[]} - Table objects to upload
+ */
 const airtableURLs = [
   {
     encoded: "Category%20Information",
     spaced: "Category Information",
-    underscored: "Category_Information"
+    underscored: "Category_Information",
+    type: 'CategoryInfo'
   },
   {
     encoded: "Medical%20Supply%20Categories",
     spaced: "Medical Supply Categories",
-    underscored: "Medical_Supply_Categories"
+    underscored: "Medical_Supply_Categories",
+    type: 'CategorySupply'
   },
   {
     encoded: "Engineered%20Project%20Pages",
     spaced: "Engineered Project Pages",
-    underscored: "Engineered_Project_Pages"
+    underscored: "Engineered_Project_Pages",
+    type: 'Project'
   },
   {
     encoded: "ProjectsFilterMenu",
     spaced: "ProjectsFilterMenu",
-    underscored: "ProjectsFilterMenu"
+    underscored: "ProjectsFilterMenu",
+    type: 'FilterMenu'
   },
   {
     encoded: "Bill%20of%20Materials",
     spaced: "Bill of Materials",
-    underscored: "Bill_of_Materials"
+    underscored: "Bill_of_Materials",
+    type: 'Material'
   },
 ];
 
