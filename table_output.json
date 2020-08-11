@@ -1,0 +1,2236 @@
+{
+  "records": [
+    {
+      "id": "rec0YS4Fh6mZJw2mp",
+      "fields": {
+        "web-name": "aerosol-boxes",
+        "Type": "Protective Gear",
+        "PPE Designs List": [
+          "recqA1QiVhZENbjfb",
+          "recK3SgH8PG3WWtk0",
+          "recXhfvjSjiy7Q0F0",
+          "reclMnAiIXzsvmiKB",
+          "recpM5GEeHV5f0kKy",
+          "recs3vErHI8Bm5arT",
+          "recVrGS8o112qs1dr",
+          "recMyz55D2FeYOoUE"
+        ],
+        "KD Category ID": "13",
+        "Display Name": "Aerosol Boxes",
+        "Supply Category Images": ["recVhoQnf76TurRTP"],
+        "Medical Supply Content": ["recjmGwX4JuhWmnlU"],
+        "Doc-Complete": ["complete"],
+        "Project-Link Complete": true,
+        "Order": 130,
+        "Date Added": "2020-04-01",
+        "Last Updated": "2020-07-02",
+        "Computed Doc Link": "https://docs.google.com/document/d/",
+        "CoverImage": [
+          {
+            "id": "attXa4Gv4Vk6duM8t",
+            "url": "https://dl.airtable.com/.attachments/2f9b03039fc0d8998455a8c1e69e2393/de5fd734/aerosol-box.png",
+            "filename": "aerosol-box.png",
+            "size": 4497,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/dda3c28c0f72c20a98b611fd6adb66df/5b4fc395",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/511e12ed42b7b4c3ffaf0e91b767eaa1/a6d29f68",
+                "width": 201,
+                "height": 201
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a690320903b4be49e3499f659dba0287/c089c996",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "New": "0",
+        "Updated": "0"
+      },
+      "createdTime": "2020-05-10T05:41:21.000Z"
+    },
+    {
+      "id": "rec2fsZddMOuK7DJx",
+      "fields": {
+        "web-name": "mask-pleaters",
+        "Type": "Manufacturing Infrastructure",
+        "PPE Designs List": [
+          "recrNE7CZt42TVoz0",
+          "recQ1l8ZkjnFMyk4f",
+          "reclkZmkLWw4r1WB9",
+          "receyvngI0SeX8Aah",
+          "rechjNRo408SkzqnJ"
+        ],
+        "KD Category ID": "11",
+        "Display Name": "Mask Pleaters",
+        "Supply Category Images": ["recnZbCUvpTN6VyTd"],
+        "Medical Supply Content": ["recO9zTW7WMoFbZxG"],
+        "Doc-Complete": ["partial"],
+        "Project-Link Complete": true,
+        "Category Information Links": "3DP Pleated Surgical Mask Machine, Erhannis 3DP Mask Pleater, 3DP Face Mask Pleater, Cardboard Mask Pleater, YouTube Cardboard Pleater Instructional",
+        "Order": 50,
+        "Date Added": "2020-04-01",
+        "Last Updated": "2020-04-01",
+        "Computed Doc Link": "https://docs.google.com/document/d/",
+        "CoverImage": [
+          {
+            "id": "att2f7hRvYP6rl3AE",
+            "url": "https://dl.airtable.com/.attachments/e070526183adb8d3f4c8334025e46c80/d63a4173/pleater.png",
+            "filename": "pleater.png",
+            "size": 3705,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a2a0d56e9e57a434db89db1eea94bd36/88d6f698",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/1f3d20bac5c83d0be7a81e738c019d58/f53d5cba",
+                "width": 201,
+                "height": 201
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/b68e0e2f3d2fb2e8afe4a28ee738d1a1/c95953ff",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "New": "0",
+        "Updated": "0"
+      },
+      "createdTime": "2020-05-10T05:28:41.000Z"
+    },
+    {
+      "id": "rec2sl2l140yuGiTV",
+      "fields": {
+        "web-name": "examination-gloves",
+        "Type": "Protective Gear",
+        "Old Document Address": "https://drive.google.com/open?id=1Pl9JA_dcZtTKQMaUTafo89Ii6SPn6LbVS_1PBmALCok",
+        "Doc ID": "1Pl9JA_dcZtTKQMaUTafo89Ii6SPn6LbVS_1PBmALCok",
+        "KD Category ID": "no designs",
+        "Display Name": "Examination Gloves",
+        "Supply Category Images": ["recNmOzLvVs8PO2AF"],
+        "Medical Supply Content": ["reco1WhAJxOmSHp2X"],
+        "Doc-Complete": ["partial"],
+        "Order": 1000,
+        "Date Added": "2020-04-01",
+        "Last Updated": "2020-04-01",
+        "Computed Doc Link": "https://docs.google.com/document/d/1Pl9JA_dcZtTKQMaUTafo89Ii6SPn6LbVS_1PBmALCok",
+        "CoverImage": [
+          {
+            "id": "attt9FQgEXC1jHN7L",
+            "url": "https://dl.airtable.com/.attachments/e1630bb8d582ca2e1fee88ddcc7b8bcc/055e87b2/gloves.png",
+            "filename": "gloves.png",
+            "size": 6074,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/8d963c12776842c22617da06965c1da2/c29fd6fc",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/843a239318f37569641eee6749606000/e8f9ede1",
+                "width": 201,
+                "height": 201
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/69579a1c014803005314e980843629fb/b5a893cc",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "New": "0",
+        "Updated": "0"
+      },
+      "createdTime": "2020-04-05T18:37:07.000Z"
+    },
+    {
+      "id": "rec38rFWaGPSiDcqv",
+      "fields": {
+        "web-name": "n95-respirators",
+        "Type": "Protective Gear",
+        "Old Document Address": "https://drive.google.com/open?id=1YpB53daXthinJ1sxzGsYlp14eZ5PTyIXpR2R1385CCI",
+        "Doc ID": "1YpB53daXthinJ1sxzGsYlp14eZ5PTyIXpR2R1385CCI",
+        "PPE Designs List": ["recg9nxNOchsBYH7w"],
+        "KD Category ID": "05",
+        "Display Name": "N95 Respirators",
+        "Supply Category Images": ["recMwqSd1kqmaHk1m"],
+        "Medical Supply Content": ["recqTtUuTV4F4R3wH"],
+        "Doc-Complete": ["complete"],
+        "Project-Link Complete": true,
+        "Order": 170,
+        "Date Added": "2020-04-01",
+        "Last Updated": "2020-04-01",
+        "Computed Doc Link": "https://docs.google.com/document/d/1YpB53daXthinJ1sxzGsYlp14eZ5PTyIXpR2R1385CCI",
+        "CoverImage": [
+          {
+            "id": "attjiFdGQRT9IhnDB",
+            "url": "https://dl.airtable.com/.attachments/21c07c655a989a54c8f753f453c9b557/fe973b0f/N95.png",
+            "filename": "N95.png",
+            "size": 4736,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f803a0f22d94b691ff5f38891f3a5620/bc6b201f",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/6f97139d2f081d1ddca0dc80eeeabe98/e610983b",
+                "width": 201,
+                "height": 201
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7a240199026d6705462c80224a4948ff/1fc824ff",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "New": "0",
+        "Updated": "0"
+      },
+      "createdTime": "2020-04-05T18:37:07.000Z"
+    },
+    {
+      "id": "rec58H9Xy0riRSivy",
+      "fields": {
+        "web-name": "venturi-masks",
+        "Type": "Airway support",
+        "Old Document Address": "https://docs.google.com/document/d/1P8GCwjdtKbHyoOCaDDCoShlKQ57GlSsrmBSlxhmD59w",
+        "Doc ID": "1P8GCwjdtKbHyoOCaDDCoShlKQ57GlSsrmBSlxhmD59w",
+        "KD Category ID": "no designs",
+        "Display Name": "Venturi Masks",
+        "Supply Category Images": ["recVOerl9Ri9pxDZT"],
+        "Medical Supply Content": ["recbVxY9UidxOmghz"],
+        "Doc-Complete": ["partial"],
+        "Order": 1000,
+        "Date Added": "2020-04-01",
+        "Last Updated": "2020-04-01",
+        "Computed Doc Link": "https://docs.google.com/document/d/1P8GCwjdtKbHyoOCaDDCoShlKQ57GlSsrmBSlxhmD59w",
+        "CoverImage": [
+          {
+            "id": "attsvuhtqEOOYq9Yr",
+            "url": "https://dl.airtable.com/.attachments/f499e23666a9abcd71dd19a52c6c1b6f/caad7355/venturi-mask.png",
+            "filename": "venturi-mask.png",
+            "size": 5145,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a88c3f4b793ea9a2f20ceafa3c48dc4b/cbc9f5cf",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/9d876dec2ebdf21bd70f9a2ea585ed96/fbbb1435",
+                "width": 201,
+                "height": 201
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/42b864cfc01d919204eb658ade5680db/42e9e013",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "New": "0",
+        "Updated": "0"
+      },
+      "createdTime": "2020-04-05T18:37:07.000Z"
+    },
+    {
+      "id": "rec6WhvqYSPpG72kU",
+      "fields": {
+        "web-name": "laryngoscopes",
+        "Type": "Airway support",
+        "Old Document Address": "https://docs.google.com/document/d/13EB7ydbxlzuaI9L_aF_-mP03NYUVHfhgWM8fnyqqRGA",
+        "Doc ID": "13EB7ydbxlzuaI9L_aF_-mP03NYUVHfhgWM8fnyqqRGA",
+        "KD Category ID": "no designs",
+        "Display Name": "Laryngoscopes",
+        "Supply Category Images": ["recIMAjtUzSz1XolG"],
+        "Medical Supply Content": ["recG1gBypPnEKxnVm"],
+        "Doc-Complete": ["partial"],
+        "Order": 1000,
+        "Date Added": "2020-04-01",
+        "Last Updated": "2020-04-01",
+        "Computed Doc Link": "https://docs.google.com/document/d/13EB7ydbxlzuaI9L_aF_-mP03NYUVHfhgWM8fnyqqRGA",
+        "CoverImage": [
+          {
+            "id": "attqcKYltmzSsobhx",
+            "url": "https://dl.airtable.com/.attachments/98a02935e141b967d307d9efa5846bbc/f30f7237/laryngoscope.png",
+            "filename": "laryngoscope.png",
+            "size": 5566,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/c295f9a8588b80664dcc937b4b885a10/5f04c54c",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/5f749920ab13cdd5df3f3d4990441808/094007ec",
+                "width": 201,
+                "height": 201
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/842f72be279b882ae09d0081d21069c4/82a7c4f8",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "New": "0",
+        "Updated": "0"
+      },
+      "createdTime": "2020-04-05T18:37:07.000Z"
+    },
+    {
+      "id": "rec6eMx1skcq19pW0",
+      "fields": {
+        "web-name": "uvc-decontamination",
+        "Type": "Decontamination/Sterilization",
+        "PPE Designs List": [
+          "recKQ3ZsyZmLhmXqp",
+          "reccsgKLoM56YLSNl",
+          "recIHd9llZM2U4lPj",
+          "reclBcBJxwdAktQRc"
+        ],
+        "KD Category ID": "19",
+        "Display Name": "UV-C Decontamination",
+        "Supply Category Images": ["rec1xP5U45ZgLHZAj"],
+        "Medical Supply Content": ["recQIgmjlFhKs31lU"],
+        "Doc-Complete": ["partial"],
+        "Order": 170,
+        "Date Added": "2020-04-01",
+        "Last Updated": "2020-04-01",
+        "Computed Doc Link": "https://docs.google.com/document/d/",
+        "CoverImage": [
+          {
+            "id": "attCX1klLRjisfCCV",
+            "url": "https://dl.airtable.com/.attachments/3815a717f19b2acd883aac70772d0ad5/5f727175/UVC.png",
+            "filename": "UVC.png",
+            "size": 5057,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a364df07d8b17c4e930a8344bdaa9650/afe24a93",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/28c7c362a3ae867a1b4c3bda86c4e77a/b37d2789",
+                "width": 201,
+                "height": 201
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/1c50f375f55ee3e2c18b2e53c428306c/0d94cf6c",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "New": "0",
+        "Updated": "0"
+      },
+      "createdTime": "2020-05-14T18:41:17.000Z"
+    },
+    {
+      "id": "rec7tXH3E8Xnw7pQ4",
+      "fields": {
+        "web-name": "oxygen-masks",
+        "Type": "Airway support",
+        "Old Document Address": "https://drive.google.com/open?id=17KvbGEjSGYYIz-01Cj4Gsd91znSOxMuADX9l6aZlU4k",
+        "Doc ID": "17KvbGEjSGYYIz-01Cj4Gsd91znSOxMuADX9l6aZlU4k",
+        "KD Category ID": "no designs",
+        "Display Name": "Oxygen Masks",
+        "Supply Category Images": ["rec3s6bu0hNm414oW"],
+        "Medical Supply Content": ["recTxCY7pQL7eiR9X"],
+        "Doc-Complete": ["partial"],
+        "Order": 1000,
+        "Date Added": "2020-04-01",
+        "Last Updated": "2020-04-01",
+        "Computed Doc Link": "https://docs.google.com/document/d/17KvbGEjSGYYIz-01Cj4Gsd91znSOxMuADX9l6aZlU4k",
+        "CoverImage": [
+          {
+            "id": "att2txHH68vShddgS",
+            "url": "https://dl.airtable.com/.attachments/b0a3ed331ac1675faee4221b6a1a4be0/74829ffb/oxygen-mask.png",
+            "filename": "oxygen-mask.png",
+            "size": 4519,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/bc01b2c0de92a842962993773bdcf598/2565931b",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/c0585f0694c8c45151ea175cda325876/b4930fa4",
+                "width": 201,
+                "height": 201
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/bcc1c46c524f1103e5a94f1bab153aef/de38ee17",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "New": "0",
+        "Updated": "0"
+      },
+      "createdTime": "2020-04-05T18:37:07.000Z"
+    },
+    {
+      "id": "rec81661rM5yrnKP9",
+      "fields": {
+        "web-name": "suits",
+        "Type": "Protective Gear",
+        "PPE Designs List": [
+          "recvgKiPXFBoW8ZzY",
+          "recjukyzpdjA5jSOd",
+          "recuI4PMc6oqX8coE"
+        ],
+        "KD Category ID": "08",
+        "Display Name": "Suits",
+        "Supply Category Images": ["recLQEc4tkPOCawMA"],
+        "Medical Supply Content": ["rec04geKzBmdYJHIb"],
+        "Doc-Complete": ["has designs"],
+        "Project-Link Complete": true,
+        "Order": 90,
+        "Date Added": "2020-04-01",
+        "Last Updated": "2020-04-01",
+        "Computed Doc Link": "https://docs.google.com/document/d/",
+        "CoverImage": [
+          {
+            "id": "attkeRaCF4n2QLKnz",
+            "url": "https://dl.airtable.com/.attachments/fd71e3027c6e227d05167ea638b0a499/7fec8135/suit.png",
+            "filename": "suit.png",
+            "size": 4285,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/5022716640fd12cca22543ee1ea7074f/ff645956",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a67557b4658ab15614c412801b5e74b5/55ac09cb",
+                "width": 201,
+                "height": 201
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/bf9281f11954b27e137e9253db82cacc/78171eb0",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "New": "0",
+        "Updated": "0"
+      },
+      "createdTime": "2020-04-10T15:14:29.000Z"
+    },
+    {
+      "id": "rec8KNux7QSPsPE6W",
+      "fields": {
+        "web-name": "noninvasive-ventilation-helmets",
+        "Type": "Airway support",
+        "PPE Designs List": [
+          "recOGNJP2GNtx32Gp",
+          "rec8BrEmtTlPd8oFf",
+          "recEvQTz1hR2BTjOD",
+          "recIntLXbCpCHOC11",
+          "recmIslARiyIYKKxx"
+        ],
+        "KD Category ID": "16",
+        "Display Name": "Noninvasive Ventilation Helmets",
+        "Supply Category Images": ["recRbTT4sk9zx0p03"],
+        "Medical Supply Content": ["recImjyyNB8HEAAZu"],
+        "Doc-Complete": ["complete"],
+        "Project-Link Complete": true,
+        "Order": 140,
+        "Date Added": "2020-04-01",
+        "Last Updated": "2020-04-01",
+        "Computed Doc Link": "https://docs.google.com/document/d/",
+        "CoverImage": [
+          {
+            "id": "attJKx5vdFCzJIsU7",
+            "url": "https://dl.airtable.com/.attachments/480bd5614938ac1017aadfecae89911a/0bb82a15/noninvasive-ventilation-helmet.png",
+            "filename": "noninvasive-ventilation-helmet.png",
+            "size": 5264,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a034f8802efdf946dce6fc7690357634/112958a8",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/3c47adf13c52d1c155bb5f0a0bb8bedf/517f178f",
+                "width": 201,
+                "height": 201
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/c69ea60a6a351f1ca7ddd70e3b37c9ad/2b27c1ef",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "New": "0",
+        "Updated": "0"
+      },
+      "createdTime": "2020-05-16T01:14:05.000Z"
+    },
+    {
+      "id": "recC8b9MVHvy5JjJk",
+      "fields": {
+        "web-name": "non-contact-thermometers",
+        "Type": "Protective Gear",
+        "Old Document Address": "https://docs.google.com/document/d/1cJnnbHjLpUTEN91QQ5GwxGxwIIbrbhNjfaN458be_-4",
+        "Doc ID": "1cJnnbHjLpUTEN91QQ5GwxGxwIIbrbhNjfaN458be_-4",
+        "KD Category ID": "no designs",
+        "Display Name": "Non-Contact Thermometers",
+        "Supply Category Images": ["receOMZrQ8bBOkE56"],
+        "Medical Supply Content": ["recCEYZMrMOpWpMnr"],
+        "Doc-Complete": ["partial"],
+        "Order": 1000,
+        "Date Added": "2020-04-01",
+        "Last Updated": "2020-04-01",
+        "Computed Doc Link": "https://docs.google.com/document/d/1cJnnbHjLpUTEN91QQ5GwxGxwIIbrbhNjfaN458be_-4",
+        "CoverImage": [
+          {
+            "id": "attdIjd31W8Zs0tYF",
+            "url": "https://dl.airtable.com/.attachments/8f788e11b024c5735ec88470bcf53f6e/7374fe4c/non-contact-thermometer.png",
+            "filename": "non-contact-thermometer.png",
+            "size": 4356,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/ec7023fb7f1a05823499c84c4bc6619c/67427e1b",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/0ea5b8d9953bd1dba8f386eb6ca6a89e/7340518c",
+                "width": 201,
+                "height": 201
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7759b5328e6ca04d55d29f02f773a9ce/ab07d319",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "New": "0",
+        "Updated": "0"
+      },
+      "createdTime": "2020-04-05T18:37:07.000Z"
+    },
+    {
+      "id": "recEQlqIubGOkle3P",
+      "fields": {
+        "web-name": "non-heated-humidifiers",
+        "Type": "Airway support",
+        "Old Document Address": "https://docs.google.com/document/d/1BByToQThLGCFvykBTFuEIvTWn4R7SgLnk4-dp1GQR9E",
+        "Doc ID": "1BByToQThLGCFvykBTFuEIvTWn4R7SgLnk4-dp1GQR9E",
+        "KD Category ID": "no designs",
+        "Display Name": "Non-Heated Humidifiers",
+        "Supply Category Images": ["recwanSfDe44XJQFm"],
+        "Medical Supply Content": ["rec5KEdLOGPcUTyyG"],
+        "Doc-Complete": ["partial"],
+        "Order": 1000,
+        "Date Added": "2020-04-01",
+        "Last Updated": "2020-04-01",
+        "Computed Doc Link": "https://docs.google.com/document/d/1BByToQThLGCFvykBTFuEIvTWn4R7SgLnk4-dp1GQR9E",
+        "CoverImage": [
+          {
+            "id": "attN3jrTpLe9acKhJ",
+            "url": "https://dl.airtable.com/.attachments/25b60e402e0fe2fb3c7213cda304e69d/c5f5658b/humidifier.png",
+            "filename": "humidifier.png",
+            "size": 4488,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a4a4321a5687822acee98f9d31ce9ec5/c1acb85c",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/b13c3f8813e5cea96e9b41704307dce3/62d1dade",
+                "width": 201,
+                "height": 201
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/da646d95666ca3a8691f9a427d2ba3a8/777ec227",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "New": "0",
+        "Updated": "0"
+      },
+      "createdTime": "2020-04-05T18:37:07.000Z"
+    },
+    {
+      "id": "recHMTDn785STr76E",
+      "fields": {
+        "web-name": "oxygen-concentrators",
+        "Type": "Airway support",
+        "Old Document Address": "https://drive.google.com/open?id=1mRucmfQ367gl-KBRQ2wlBcXw0Lrr1Z2QZ7giE1sXIXE",
+        "Doc ID": "1mRucmfQ367gl-KBRQ2wlBcXw0Lrr1Z2QZ7giE1sXIXE",
+        "KD Category ID": "no designs",
+        "Display Name": "Oxygen Concentrators",
+        "Supply Category Images": ["rec3sdqC4ypnrXX27"],
+        "Medical Supply Content": ["recTT0E6dMpcM0eEK"],
+        "Doc-Complete": ["partial"],
+        "Order": 1000,
+        "Date Added": "2020-04-01",
+        "Last Updated": "2020-04-01",
+        "Computed Doc Link": "https://docs.google.com/document/d/1mRucmfQ367gl-KBRQ2wlBcXw0Lrr1Z2QZ7giE1sXIXE",
+        "CoverImage": [
+          {
+            "id": "attn6WmmgO45CvVVK",
+            "url": "https://dl.airtable.com/.attachments/20cfb715a8fcc93d1dffc878c903dece/2c3bfa65/oxygen-concentrator.png",
+            "filename": "oxygen-concentrator.png",
+            "size": 3519,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/0a403abf0f9ddc3845f380ca9fdf4de8/cc840492",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/853b347087e9e6fb3b2519f0f8af74a5/672b5215",
+                "width": 201,
+                "height": 201
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/396cd8e4fe4dac27e0cef44bc2a33465/bce9c52b",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "New": "0",
+        "Updated": "0"
+      },
+      "createdTime": "2020-04-05T18:37:07.000Z"
+    },
+    {
+      "id": "recIcZLOhV4IoFybE",
+      "fields": {
+        "web-name": "nasal-catheters",
+        "Type": "Airway support",
+        "Old Document Address": "https://drive.google.com/open?id=1jBEUvqK50e3y4tW0REekBqofS4LL6VNWTHxDYLRVZK0",
+        "Doc ID": "1jBEUvqK50e3y4tW0REekBqofS4LL6VNWTHxDYLRVZK0",
+        "KD Category ID": "no designs",
+        "Display Name": "Nasal Catheters",
+        "Supply Category Images": ["recdRk85hHMt7wTBX"],
+        "Medical Supply Content": ["recznPLjoSupnfctC"],
+        "Doc-Complete": ["partial"],
+        "Order": 1000,
+        "Date Added": "2020-04-01",
+        "Last Updated": "2020-04-01",
+        "Computed Doc Link": "https://docs.google.com/document/d/1jBEUvqK50e3y4tW0REekBqofS4LL6VNWTHxDYLRVZK0",
+        "CoverImage": [
+          {
+            "id": "attL1T4Iv5KVmjYLE",
+            "url": "https://dl.airtable.com/.attachments/0f2688b88a2ffa4eb39cd6057e73f8d1/f971028c/nasal-catheter.png",
+            "filename": "nasal-catheter.png",
+            "size": 5771,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a95472e2ce45d294c7eeed0ca813b920/70097889",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/608e832a0b03870ec95946793abe6eeb/7a5d1009",
+                "width": 201,
+                "height": 201
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/1ef6e461f25fe11fb13d8b65403d6079/16656d12",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "New": "0",
+        "Updated": "0"
+      },
+      "createdTime": "2020-04-05T18:37:07.000Z"
+    },
+    {
+      "id": "recJ0erOHMzTFkl0S",
+      "fields": {
+        "web-name": "sterilization-tunnels",
+        "Type": "Decontamination/Sterilization",
+        "KD Category ID": "no designs",
+        "Display Name": "Sterilization Tunnels",
+        "Supply Category Images": ["recmBMRv42hZBmIAa"],
+        "Medical Supply Content": ["recMBpCjRecaADnJc"],
+        "Doc-Complete": ["incomplete"],
+        "Order": 1000,
+        "Date Added": "2020-04-01",
+        "Last Updated": "2020-04-01",
+        "Computed Doc Link": "https://docs.google.com/document/d/",
+        "CoverImage": [
+          {
+            "id": "attKJzXSVMJAyXiwy",
+            "url": "https://dl.airtable.com/.attachments/7117c80cafbd855e6b42239a0fbd447a/61f25322/sterilization-tunnel.png",
+            "filename": "sterilization-tunnel.png",
+            "size": 6710,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/eb78bad93ed7f58d8684f5fac76bcef4/46ee6efd",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/fb9fba100b0c254bfa0c07b95c8c09ed/02fe3dd9",
+                "width": 201,
+                "height": 201
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/9f637cb5f5a3b7f943ca7c816ea28746/3fcb8596",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "New": "0",
+        "Updated": "0"
+      },
+      "createdTime": "2020-05-14T20:37:55.000Z"
+    },
+    {
+      "id": "recKpxcGLFo36t1ZS",
+      "fields": {
+        "web-name": "ventilators",
+        "Type": "Airway support",
+        "Old Document Address": "https://drive.google.com/open?id=1lZWUwIpN2kINxURqP9Tczn2zYqpuVlBSDBypJt76a2Q",
+        "Doc ID": "1lZWUwIpN2kINxURqP9Tczn2zYqpuVlBSDBypJt76a2Q",
+        "KD Category ID": "no designs",
+        "Display Name": "Ventilator Machines",
+        "Supply Category Images": ["recJu0jHlMjoY03un"],
+        "Medical Supply Content": ["rec9PVuKvGI9AFbBt"],
+        "Doc-Complete": ["partial"],
+        "Order": 1000,
+        "Date Added": "2020-04-01",
+        "Last Updated": "2020-04-01",
+        "Computed Doc Link": "https://docs.google.com/document/d/1lZWUwIpN2kINxURqP9Tczn2zYqpuVlBSDBypJt76a2Q",
+        "CoverImage": [
+          {
+            "id": "att4Jt7LzWmVFRF9H",
+            "url": "https://dl.airtable.com/.attachments/66f19e1f65bc72483ad9e625ffd794b2/2c8f256c/ventilator.png",
+            "filename": "ventilator.png",
+            "size": 5737,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f6e1b29538674b48420d808dfa5bf5f4/974af9ae",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/3055c8e18fe39a2cefab38c4d91a8522/1bf953b2",
+                "width": 201,
+                "height": 201
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/fc8a469e7c38f001e77a83de39cdc17e/85d66f46",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "New": "0",
+        "Updated": "0"
+      },
+      "createdTime": "2020-04-05T18:37:07.000Z"
+    },
+    {
+      "id": "recMYyXRRuvITZydm",
+      "fields": {
+        "web-name": "filtering-masks",
+        "PPE Designs List": [
+          "recnyd15G3m6j62jU",
+          "rec8yi7uQYJoRxonR",
+          "recstofoOpJbclWiC",
+          "recQlcTP5SdXT3WgZ",
+          "recWG6UgaEqBl8B9P",
+          "recqDiyJS3GgkinCF",
+          "rec595nDwvHj9Oaf2",
+          "recgX5MRXY5Hx608P",
+          "recimikAidnlxnVfL",
+          "rec0hTJork7Zaa4r8",
+          "rec1K8tYdolSb3YRK",
+          "recsLTKQcqv9aucfY",
+          "recd9QhRfkwUd10XD",
+          "recVGDzoUoI23QI5q",
+          "recta3W3BzDrC7RFs",
+          "recy6Ox5rUwbhBHw5",
+          "recQpAyHix59fcsiP",
+          "recDQRxmnEOuJl1Hm"
+        ],
+        "Display Name": "Filtering Masks",
+        "Supply Category Images": ["recpgSsy7AIoc802e"],
+        "Medical Supply Content": ["recF8PQr80vIOSvhO"],
+        "Date Added": "2020-04-01",
+        "Last Updated": "2020-04-01",
+        "Staging": true,
+        "Computed Doc Link": "https://docs.google.com/document/d/",
+        "CoverImage": [
+          {
+            "id": "attD2llyeplqRxM55",
+            "url": "https://dl.airtable.com/.attachments/073c915262ed20feb7660f20e4250d8c/f8b3bcb4/3D-printed-mask.png",
+            "filename": "3D-printed-mask.png",
+            "size": 5291,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/171079f7f349bf838b3e97066dd3ba9f/092c3e36",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/40688b13d023adc7d3952bcad479033e/5b88da29",
+                "width": 201,
+                "height": 201
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/72111f4f68831507940069b10c404f9f/24d61481",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "New": "0",
+        "Updated": "0"
+      },
+      "createdTime": "2020-07-28T19:36:54.000Z"
+    },
+    {
+      "id": "recN5vgkMOCCqk9tF",
+      "fields": {
+        "web-name": "ear-savers-nose-supports",
+        "Type": "Protective Gear",
+        "PPE Designs List": [
+          "recHgH8DyvbgIWetM",
+          "recTG0rllIGK49o38",
+          "rectjbBz5Lje24Rxi",
+          "rect8dC8ugz5KYZct",
+          "recuSD0rgeqCiQPJb",
+          "recPbcXvuuK7ry5sC",
+          "recYuojB8dn2y374C",
+          "recxvhJk7tkDq8CLj",
+          "rec6lRV8jylL7ACv0",
+          "rec7fHAq5fNZ2k85N",
+          "recvK4Ablu0xuDc8d"
+        ],
+        "KD Category ID": "15",
+        "Display Name": "Ear Savers & Nose Bridge Supports",
+        "Supply Category Images": ["recEx7ZqmelpXCsrf"],
+        "Medical Supply Content": ["recEvbsskDZOVn8pO"],
+        "Doc-Complete": ["partial"],
+        "Project-Link Complete": true,
+        "Category Information Links": "Crocheted Ear Saver, Headband with Buttons, 3DP Button, Metal Nose Bridge Support, Laser Cut Origami Ear Extender, Boise Ear Saver, Mask Comfort Strap, Surgical Mask Band- Extra Security V2, Surgical Mask Tension Release Band",
+        "Order": 70,
+        "Date Added": "2020-04-01",
+        "Last Updated": "2020-04-01",
+        "Computed Doc Link": "https://docs.google.com/document/d/",
+        "CoverImage": [
+          {
+            "id": "att07AcZ33Xc5TF2G",
+            "url": "https://dl.airtable.com/.attachments/bbc9eadc81228d6094d8ebecfffa7100/e3ec48c2/mask-helper.png",
+            "filename": "mask-helper.png",
+            "size": 2401,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/cc9ad27b5b106fe3bfa9e82c2553cf73/20e6fe25",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7b9b4440c2eb3e6f7df5f6808f0b1a2a/e17a9e94",
+                "width": 201,
+                "height": 201
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/65544be9e57df8745114d53f868888e8/aa93be34",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "New": "0",
+        "Updated": "0"
+      },
+      "createdTime": "2020-05-12T07:28:59.000Z"
+    },
+    {
+      "id": "recN97Q3ZlWvKczxZ",
+      "fields": {
+        "web-name": "cloth-coverings",
+        "PPE Designs List": [
+          "recioe11uhieyp6fl",
+          "recMp2qVxko26sPi3",
+          "recotHmMaJ47rnvIf",
+          "recoDw3IbZJzFlO3g",
+          "recW5waKOUthYbEL2",
+          "rec8J2bRauPyvgIrJ",
+          "recMmMyyHEbNZnnkj",
+          "reczDu9VKmqCPt7VA",
+          "recveKYNp44bG6k1V"
+        ],
+        "Display Name": "Cloth Coverings/ Fabric Masks",
+        "Supply Category Images": ["rec5m2gOA4KE2R1Gq"],
+        "Medical Supply Content": ["reccSeeLbXhjPza3G"],
+        "Date Added": "2020-04-01",
+        "Last Updated": "2020-04-01",
+        "Staging": true,
+        "Computed Doc Link": "https: //docs.google.com/document/d/",
+        "CoverImage": [
+          {
+            "id": "att49B0lj0OLAUQxg",
+            "url": "https://dl.airtable.com/.attachments/e01f62aeb13d2c4963d1efef9931a14c/6278cfc6/mask.png",
+            "filename": "mask.png",
+            "size": 4267,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/970075fd5a11dc0cd4995e2bd6120bf4/3f3ea8f5",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7eae4254438b0c8bfaa61d194f61c58e/766cdac9",
+                "width": 201,
+                "height": 201
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/b932199777e82f0939c494da7662d4a3/8563eefd",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "New": "0",
+        "Updated": "0"
+      },
+      "createdTime": "2020-07-28T19:36:26.000Z"
+    },
+    {
+      "id": "recOe9tRvzYgfFw9S",
+      "fields": {
+        "web-name": "gowns",
+        "Type": "Protective Gear",
+        "Old Document Address": "https://drive.google.com/open?id=1SGh4GStsBs3gYS_tbB017lVFNSfC1aVbbUiCtN9fZlA",
+        "Doc ID": "1SGh4GStsBs3gYS_tbB017lVFNSfC1aVbbUiCtN9fZlA",
+        "PPE Designs List": [
+          "recEVQD1HzRHAXZlM",
+          "recC1CPaJF3nH75JY",
+          "recx9J2BHPmi7GBw2",
+          "recxWEhoE8NewvOSX",
+          "reczyMz7KVUJpCoEy",
+          "rec9CW5CHybWwRfUQ",
+          "recVbSBpMwKrl0gHY",
+          "rec7fowLFW2O1bLHq",
+          "recnPTLUR8ybnMXCC",
+          "reclv7fhKb2N9d30d",
+          "recdn7XbWsyjlUMqm",
+          "recjHdz6WlUhJgpdv"
+        ],
+        "KD Category ID": "04",
+        "Display Name": "Gowns",
+        "Supply Category Images": ["rectzOKPpwOMTzCVd"],
+        "Medical Supply Content": ["recIacnyVjOwcqEsQ"],
+        "Doc-Complete": ["complete"],
+        "Project-Link Complete": true,
+        "Order": 30,
+        "Date Added": "2020-04-01",
+        "Last Updated": "2020-04-01",
+        "Computed Doc Link": "https://docs.google.com/document/d/1SGh4GStsBs3gYS_tbB017lVFNSfC1aVbbUiCtN9fZlA",
+        "CoverImage": [
+          {
+            "id": "attlAvS6CYFjAKXgK",
+            "url": "https://dl.airtable.com/.attachments/4ff72caf449a755eb763f45a8a401d7a/e409b01f/gowns.png",
+            "filename": "gowns.png",
+            "size": 4067,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/47b794e4abffc23002f4545d331dad4a/6f1042b9",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/c48210ee9d64ae8447dc154b67bdcf9e/0108e61e",
+                "width": 201,
+                "height": 201
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e4f8a682e764cc1901da06aad66a1ec3/d0dc0819",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "New": "0",
+        "Updated": "0"
+      },
+      "createdTime": "2020-04-05T18:37:07.000Z"
+    },
+    {
+      "id": "recSImkl1eQBlmqpy",
+      "fields": {
+        "web-name": "goggles",
+        "Type": "Protective Gear",
+        "Old Document Address": "https://drive.google.com/open?id=1pQIRvKxXKttMmovCAnULITqRjD1mlM_ae_oGxgZyJZY",
+        "Doc ID": "1pQIRvKxXKttMmovCAnULITqRjD1mlM_ae_oGxgZyJZY",
+        "PPE Designs List": [
+          "recf4iLUks7HIy7TA",
+          "recA7eszNZBaygePS",
+          "rechIc8bIKi8i4q1S",
+          "recqj5OU0uuGUfi75"
+        ],
+        "KD Category ID": "17",
+        "Display Name": "Goggles",
+        "Supply Category Images": ["recwthztM5uCijd4y"],
+        "Medical Supply Content": ["recN6PEdFPsdSqmkP"],
+        "Doc-Complete": ["partial"],
+        "Project-Link Complete": true,
+        "Order": 150,
+        "Date Added": "2020-04-01",
+        "Last Updated": "2020-04-01",
+        "Computed Doc Link": "https://docs.google.com/document/d/1pQIRvKxXKttMmovCAnULITqRjD1mlM_ae_oGxgZyJZY",
+        "CoverImage": [
+          {
+            "id": "attDRZR3P4IoxyJdu",
+            "url": "https://dl.airtable.com/.attachments/a07c01569b8e47f3520533fda8adf963/0187dcc8/goggles.png",
+            "filename": "goggles.png",
+            "size": 4297,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/316b115ae0c3da26fd24eb4cf43c7e9b/950f1f08",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/133e39bc232000c5f16fdb8f4771430f/a8207956",
+                "width": 201,
+                "height": 201
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e85755128033297c5eec9a6a69520d9b/b04067b9",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "New": "0",
+        "Updated": "0"
+      },
+      "createdTime": "2020-04-05T18:37:07.000Z"
+    },
+    {
+      "id": "recT8hGpnFWk8pCaG",
+      "fields": {
+        "web-name": "shoe-covers",
+        "Type": "Protective Gear",
+        "PPE Designs List": ["rec2h1QEJG5QW39LO", "recsvIIZxzNLb7GIq"],
+        "KD Category ID": "23",
+        "Display Name": "Shoe Covers",
+        "Supply Category Images": ["rec2ax395wT8K4rZk"],
+        "Medical Supply Content": ["recgYGtYKrViHscRY"],
+        "Doc-Complete": ["partial"],
+        "Order": 1000,
+        "Date Added": "2020-04-01",
+        "Last Updated": "2020-07-27",
+        "Staging": true,
+        "Computed Doc Link": "https://docs.google.com/document/d/",
+        "CoverImage": [
+          {
+            "id": "attXRur6opD1zLvAR",
+            "url": "https://dl.airtable.com/.attachments/540df6fa73eb468702e14a2241ada74f/76688da2/shoe-cover.png",
+            "filename": "shoe-cover.png",
+            "size": 4410,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a5e2ac868cc7fff47ba0302acc0d67d6/74839557",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/568550cad56d9f1bcc73718397492d00/be910cc4",
+                "width": 201,
+                "height": 201
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e078f73b1dea6239c7619cd1c5e75e85/c26bc5ca",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "New": "0",
+        "Updated": "1"
+      },
+      "createdTime": "2020-05-11T22:25:04.000Z"
+    },
+    {
+      "id": "recTGwqeR54lkj4h4",
+      "fields": {
+        "web-name": "door-openers",
+        "Type": "Protective Gear",
+        "PPE Designs List": [
+          "recJb6wS7A4cdTPk4",
+          "recRUxtkzWma9rvP4",
+          "recNsr2ywGwo4FpiA"
+        ],
+        "KD Category ID": "20",
+        "Display Name": "Door Openers",
+        "Supply Category Images": ["recjSZDKkesgzWNKd"],
+        "Medical Supply Content": ["recDXXGTcR8t2Zp6Q"],
+        "Doc-Complete": ["has designs"],
+        "Order": 75,
+        "Date Added": "2020-07-01",
+        "Last Updated": "2020-07-01",
+        "Computed Doc Link": "https://docs.google.com/document/d/",
+        "CoverImage": [
+          {
+            "id": "att3BReoOsd1ujokr",
+            "url": "https://dl.airtable.com/.attachments/a6d8d7fa39c87e4fc13b4390a90389df/66f6a77e/door-opener.png",
+            "filename": "door-opener.png",
+            "size": 4630,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/6d5d9e0f3f349ee208a8a9b36c01e9a6/afd05106",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/5e8c260546609f34c7aec226e1ce7638/208f7ced",
+                "width": 201,
+                "height": 201
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/ea3245a8c212f8450b65d448381cfd6d/33285bfb",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "New": "0",
+        "Updated": "0"
+      },
+      "createdTime": "2020-06-23T20:40:49.000Z"
+    },
+    {
+      "id": "recW4SRt07LaIPmJn",
+      "fields": {
+        "web-name": "pulse-oximeter",
+        "Type": "Assessment",
+        "Old Document Address": "https://docs.google.com/document/d/1BByToQThLGCFvykBTFuEIvTWn4R7SgLnk4-dp1GQR9E",
+        "Doc ID": "19h_4C4aQQ9ljGtZEuAEbd7aRbpOfBDNNrLRpLbNh94s",
+        "PPE Designs List": [
+          "recLti9X2a599oSJL",
+          "recxIvyNvAcxJWd8h",
+          "recrTU2oG9xACJFw8",
+          "recvPQRcq5jqciLx8",
+          "recbhflFg4XEHKy5d",
+          "recIStcUzCE64km0F"
+        ],
+        "KD Category ID": "14",
+        "Display Name": "Pulse Oximeters",
+        "Supply Category Images": ["recZSTUJSSFtHxqye"],
+        "Medical Supply Content": ["recRlIztZUEbwG9pt"],
+        "Doc-Complete": ["complete"],
+        "Project-Link Complete": true,
+        "Order": 120,
+        "Date Added": "2020-04-01",
+        "Last Updated": "2020-04-01",
+        "Computed Doc Link": "https://docs.google.com/document/d/19h_4C4aQQ9ljGtZEuAEbd7aRbpOfBDNNrLRpLbNh94s",
+        "CoverImage": [
+          {
+            "id": "attkZ96ThpgK4vX9g",
+            "url": "https://dl.airtable.com/.attachments/dfb60eb945bc0e94d445609310c665ff/5b92d439/pulse-oximeter.png",
+            "filename": "pulse-oximeter.png",
+            "size": 3457,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/cd5f907bc2c3c3effcdaf0f95e1381fb/7d66969e",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/3d7823630beabf279d15099b263c8fb7/5e92e770",
+                "width": 201,
+                "height": 201
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/eeab842d358e665eab9a3ee0088c0c01/69367daa",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "New": "0",
+        "Updated": "0"
+      },
+      "createdTime": "2020-04-05T18:37:07.000Z"
+    },
+    {
+      "id": "recaKpPaENYte7DkB",
+      "fields": {
+        "web-name": "face-mask-3D",
+        "Type": "Protective Gear",
+        "PPE Designs List": [
+          "rec8yi7uQYJoRxonR",
+          "rec0hTJork7Zaa4r8",
+          "recimikAidnlxnVfL",
+          "recgX5MRXY5Hx608P",
+          "rec595nDwvHj9Oaf2",
+          "recqDiyJS3GgkinCF",
+          "recWG6UgaEqBl8B9P",
+          "recQlcTP5SdXT3WgZ",
+          "recstofoOpJbclWiC"
+        ],
+        "KD Category ID": "21",
+        "Display Name": "Face Masks- 3D printed",
+        "Supply Category Images": ["recQ2WacqZvCIxih9"],
+        "Medical Supply Content": ["recvC7RhibWHDKZgN"],
+        "Doc-Complete": ["has designs"],
+        "Order": 25,
+        "Date Added": "2020-07-01",
+        "Last Updated": "2020-07-01",
+        "Computed Doc Link": "https://docs.google.com/document/d/",
+        "CoverImage": [
+          {
+            "id": "attClbdl2kROZrt8Z",
+            "url": "https://dl.airtable.com/.attachments/a689eef04fa24b033d905cbc6ee5b31f/b6bd3364/3D-printed-mask.png",
+            "filename": "3D-printed-mask.png",
+            "size": 5291,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/4503a467b84466e14e014ee453e58838/3a3527cf",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/8ee9183f685e6ddc27dde73b9d3c901e/332467de",
+                "width": 201,
+                "height": 201
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/bdc04f06b6dd324b0df5b07511943282/b66d8bea",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "New": "0",
+        "Updated": "0"
+      },
+      "createdTime": "2020-06-23T23:22:37.000Z"
+    },
+    {
+      "id": "recacr1s9IsDvrxFS",
+      "fields": {
+        "web-name": "thorpe-tube-flowmeter",
+        "Type": "Airway support",
+        "Old Document Address": "https://docs.google.com/document/d/1JYjhsqhJdIfVbs7Ket8G1rD9MN9cZYL9DPo3YGsPxCA",
+        "Doc ID": "1JYjhsqhJdIfVbs7Ket8G1rD9MN9cZYL9DPo3YGsPxCA",
+        "KD Category ID": "no designs",
+        "Display Name": "Thorpe Tube Flowmeters",
+        "Supply Category Images": ["recGbKjjdXfIL8jj8"],
+        "Medical Supply Content": ["recfyCMu4mOlLezyi"],
+        "Doc-Complete": ["partial"],
+        "Order": 1000,
+        "Date Added": "2020-04-01",
+        "Last Updated": "2020-04-01",
+        "Computed Doc Link": "https://docs.google.com/document/d/1JYjhsqhJdIfVbs7Ket8G1rD9MN9cZYL9DPo3YGsPxCA",
+        "CoverImage": [
+          {
+            "id": "attYBvL5QFBeU8Zvh",
+            "url": "https://dl.airtable.com/.attachments/73ec48a0a6c34a2f4ce99f1c81048cdb/1c346b74/thorpe-tube-flowmeter.png",
+            "filename": "thorpe-tube-flowmeter.png",
+            "size": 3213,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/72a4e482bab5f19c86fc64b8baa7f742/b663c64f",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/1f2ab56120101fe79856c6a66e6fdd6a/d0834b9c",
+                "width": 201,
+                "height": 201
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/cddd02a33b244ec614d6905c5751995d/272a4dc2",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "New": "0",
+        "Updated": "0"
+      },
+      "createdTime": "2020-04-05T18:37:07.000Z"
+    },
+    {
+      "id": "reccVnemYRhlcR3PD",
+      "fields": {
+        "web-name": "sneeze-guard-transparent-partitons",
+        "Type": "Protective Gear",
+        "PPE Designs List": ["recHdleSoP31UJssF", "reczopVTRv9XYklcW"],
+        "KD Category ID": "22",
+        "Display Name": "Sneeze Guards/Transparent Partitions",
+        "Supply Category Images": ["recbRc74QGQ9Ff5R2"],
+        "Medical Supply Content": ["recc4ThKTsuIzKboX"],
+        "Doc-Complete": ["has designs"],
+        "Order": 95,
+        "Date Added": "2020-07-02",
+        "Last Updated": "2020-07-02",
+        "Computed Doc Link": "https://docs.google.com/document/d/",
+        "CoverImage": [
+          {
+            "id": "attFasyCapJbTzAbG",
+            "url": "https://dl.airtable.com/.attachments/ef8f4677601316daece43c99050fbd4e/ee3a3fcb/sneeze-guard.png",
+            "filename": "sneeze-guard.png",
+            "size": 4338,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/8a5ae2b1c65251b5cdba96c6fd296779/c2676a30",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/054dd9e94db69fc0f06abd65c06da365/a6110feb",
+                "width": 201,
+                "height": 201
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/198d56e920050c952ae4386258f04ff5/a75f2684",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "New": "0",
+        "Updated": "0"
+      },
+      "createdTime": "2020-07-02T21:04:38.000Z"
+    },
+    {
+      "id": "rece43abKlVnrqnfF",
+      "fields": {
+        "web-name": "fabric-face-masks",
+        "Type": "Protective Gear",
+        "PPE Designs List": [
+          "recioe11uhieyp6fl",
+          "recMp2qVxko26sPi3",
+          "recotHmMaJ47rnvIf",
+          "recoDw3IbZJzFlO3g",
+          "recd9QhRfkwUd10XD",
+          "recc0sNDAtc2sdrql",
+          "recta3W3BzDrC7RFs",
+          "recVGDzoUoI23QI5q",
+          "rec1K8tYdolSb3YRK",
+          "rec8J2bRauPyvgIrJ",
+          "recW5waKOUthYbEL2",
+          "recsLTKQcqv9aucfY",
+          "rec0OIusoJDfWwS2Y",
+          "recty5dsnYlmHN7ra",
+          "reckRjNxqcRAdbizc",
+          "rec1hFlQ41ieBbzeL",
+          "rec4XRgQkF4xxwzrs",
+          "recnyd15G3m6j62jU",
+          "recy6Ox5rUwbhBHw5",
+          "recQpAyHix59fcsiP",
+          "recDQRxmnEOuJl1Hm",
+          "recMmMyyHEbNZnnkj",
+          "reczDu9VKmqCPt7VA",
+          "recveKYNp44bG6k1V"
+        ],
+        "KD Category ID": "02",
+        "Display Name": "Fabric Face Masks",
+        "Supply Category Images": [
+          "recLjUHwpWutQN23e",
+          "recwa2k0Oh7P6B2wP",
+          "rec9MDvytVLXl7GbJ"
+        ],
+        "Medical Supply Content": ["recvMvWFTzXGIy2ez"],
+        "Doc-Complete": ["complete"],
+        "Project-Link Complete": true,
+        "Order": 20,
+        "Date Added": "2020-04-01",
+        "Last Updated": "2020-07-02",
+        "Computed Doc Link": "https://docs.google.com/document/d/",
+        "AltImages": [
+          {
+            "id": "attHfOjePYOiO0dz6",
+            "url": "https://dl.airtable.com/.attachments/5ef1cb97e8ca93ded9645ce96c5966bb/73a9b2b2/mask_materials.jpg",
+            "filename": "mask_materials.jpg",
+            "size": 441820,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/1343a59703a7a697b327bf09f5d43d04/185e546a",
+                "width": 47,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/8e38ddda787b20afc340d8ec43d37bbb/d1e6732c",
+                "width": 664,
+                "height": 512
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/33efd44371a36720d83877a77cc1c36a/ff21a53a",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          },
+          {
+            "id": "att9q9Oumi2B1TF62",
+            "url": "https://dl.airtable.com/.attachments/ddac2e88a3ca73da101308581993ab8a/5f2c3b8e/mask_DIYMask_Breathability.jpg",
+            "filename": "mask_DIYMask_Breathability.jpg",
+            "size": 401250,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/2ba2f3fda75d5c56afe63170aa8078ed/0468c7d9",
+                "width": 49,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/2cfdddd309411ab197d070d9d1dabca9/8648d8e7",
+                "width": 696,
+                "height": 512
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7c043a8dd11024c3e43f002a7034bc38/eefd68d0",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "CoverImage": [
+          {
+            "id": "attfXexUAFvsYUXi1",
+            "url": "https://dl.airtable.com/.attachments/260e27ae12a3cf9df42d74abb8db6737/13095de3/mask.png",
+            "filename": "mask.png",
+            "size": 4267,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/1a4c0328d7f6c23a0ce02c7a33942bed/8b255135",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/372bf966c92e32d49ae62bcffb873433/09810a83",
+                "width": 201,
+                "height": 201
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/063ed0e2812067a2030bd3dae9d18efb/4414bd5a",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "New": "0",
+        "Updated": "0"
+      },
+      "createdTime": "2020-04-06T22:39:26.000Z"
+    },
+    {
+      "id": "recfKNS9MWv7kAE9S",
+      "fields": {
+        "web-name": "hospital-beds",
+        "Type": "Hospital Expansion/Conversion",
+        "Old Document Address": "https://docs.google.com/document/d/1cModfKdqFBHpBGImpopIyGhXOJR9SXW89CO5vFWC2jo",
+        "Doc ID": "1cModfKdqFBHpBGImpopIyGhXOJR9SXW89CO5vFWC2jo",
+        "KD Category ID": "no designs",
+        "Display Name": "Hospital Beds",
+        "Supply Category Images": ["rechh8LhY9PvZXXGV"],
+        "Medical Supply Content": ["recICUebc0XLDvKpz"],
+        "Doc-Complete": ["partial"],
+        "Order": 1000,
+        "Date Added": "2020-04-01",
+        "Last Updated": "2020-04-01",
+        "Computed Doc Link": "https://docs.google.com/document/d/1cModfKdqFBHpBGImpopIyGhXOJR9SXW89CO5vFWC2jo",
+        "CoverImage": [
+          {
+            "id": "attEEpeuuZWvyE4tJ",
+            "url": "https://dl.airtable.com/.attachments/46015472697395f0e15d0f41151b38df/b249e109/hospital-bed.png",
+            "filename": "hospital-bed.png",
+            "size": 5103,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e124515c2e93eb57fd8fbe5eda210262/938ec798",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/b2b1ae55d5b9d8b70960b01fa22bf4d6/3046a66a",
+                "width": 201,
+                "height": 201
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/13c680cca1f77ee7c2313fbfea442d95/9936a8dc",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "New": "0",
+        "Updated": "0"
+      },
+      "createdTime": "2020-04-05T18:37:07.000Z"
+    },
+    {
+      "id": "recjhT6kaRWpmik6U",
+      "fields": {
+        "web-name": "scrubs",
+        "Type": "Protective Gear",
+        "KD Category ID": "no designs",
+        "Display Name": "Scrubs",
+        "Supply Category Images": ["rec0iFdG46jVyaBQH"],
+        "Medical Supply Content": ["recmi7Pil9rGh0DEK"],
+        "Doc-Complete": ["partial"],
+        "Order": 1000,
+        "Date Added": "2020-04-01",
+        "Last Updated": "2020-04-01",
+        "Computed Doc Link": "https://docs.google.com/document/d/",
+        "CoverImage": [
+          {
+            "id": "att5xuPMUM9ieBUzz",
+            "url": "https://dl.airtable.com/.attachments/2aead2a47722d80654e4195fe4162bee/1c9acef9/scrubs.png",
+            "filename": "scrubs.png",
+            "size": 4985,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f69efda5e83fb391a489bcdaf30443ef/0a9e944a",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/76e0438ba71505e9d7e20bf80049f25a/4a9cf30c",
+                "width": 201,
+                "height": 201
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/5c77feb0fad880783edbfa2cf279e0de/62f0ad3b",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "New": "0",
+        "Updated": "0"
+      },
+      "createdTime": "2020-05-14T20:53:32.000Z"
+    },
+    {
+      "id": "recl6XuR2NQg4VDR3",
+      "fields": {
+        "web-name": "PAPR",
+        "Type": "Protective Gear",
+        "Old Document Address": "https://drive.google.com/open?id=1jq0ldeWa5K4euMkYwASuoIJmQ3dOWoOPoW4fXSfkfxE",
+        "Doc ID": "1jq0ldeWa5K4euMkYwASuoIJmQ3dOWoOPoW4fXSfkfxE",
+        "PPE Designs List": [
+          "recopQy1fc7eRVAWX",
+          "recaIqHu34HJOrEUV",
+          "recBbKYagSQrLybjG",
+          "recrzcZsigoeiI3TF",
+          "rec6cveydDyIcrBgH",
+          "recmvw69LLchm0XYf",
+          "recvEJognEPRBUTWq",
+          "recHL0TYe8I9bgbYJ"
+        ],
+        "KD Category ID": "07",
+        "Display Name": "Powered Air Purifying Respirators/PAPR",
+        "Supply Category Images": ["rec9gDTWRahWJGy9V"],
+        "Medical Supply Content": ["recGIo0jm2ZUurIgc"],
+        "Doc-Complete": ["complete"],
+        "Project-Link Complete": true,
+        "Order": 110,
+        "Date Added": "2020-04-01",
+        "Last Updated": "2020-07-02",
+        "Computed Doc Link": "https://docs.google.com/document/d/1jq0ldeWa5K4euMkYwASuoIJmQ3dOWoOPoW4fXSfkfxE",
+        "CoverImage": [
+          {
+            "id": "attvu6y5aQIU4yGrp",
+            "url": "https://dl.airtable.com/.attachments/4aba28238d97edba81d941afb46ed55f/e502688a/PAPR.png",
+            "filename": "PAPR.png",
+            "size": 5360,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/3ecb4b5b79ea58750bc3d38425fb5301/3bdf52ce",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/657d7f5dc3114e764bd18eeef064bcc7/0ba3df11",
+                "width": 201,
+                "height": 201
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/037cf3afe66577ef601b9b2ef21fdc90/4fafdb17",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "New": "0",
+        "Updated": "0"
+      },
+      "createdTime": "2020-04-05T18:37:07.000Z"
+    },
+    {
+      "id": "recmT6MWsny5HK4Y0",
+      "fields": {
+        "web-name": "infusion-pumps",
+        "Type": "Drug Delivery",
+        "Old Document Address": "https://docs.google.com/document/d/1c_fnJv9FMH7KyicmiJvpoYZO4EfRDN3RS_js8_UkcXA",
+        "Doc ID": "1c_fnJv9FMH7KyicmiJvpoYZO4EfRDN3RS_js8_UkcXA",
+        "KD Category ID": "no designs",
+        "Display Name": "Infusion Pumps",
+        "Supply Category Images": ["rechy3PMKgcWnPz6Q"],
+        "Medical Supply Content": ["recaZgoPtpnNq5J3V"],
+        "Doc-Complete": ["partial"],
+        "Order": 1000,
+        "Date Added": "2020-04-01",
+        "Last Updated": "2020-04-01",
+        "Computed Doc Link": "https://docs.google.com/document/d/1c_fnJv9FMH7KyicmiJvpoYZO4EfRDN3RS_js8_UkcXA",
+        "CoverImage": [
+          {
+            "id": "attr4WIiB5WaCY5Wl",
+            "url": "https://dl.airtable.com/.attachments/1fe2c79b8ace1b852324c1dd3076e2e7/c7be20bf/infusion-pump.png",
+            "filename": "infusion-pump.png",
+            "size": 3681,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/197e348459be87b1a5efdc9018a4e020/03140a33",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/ac357fb8063db5d29b1b2816783b57c4/851502eb",
+                "width": 201,
+                "height": 201
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/8184e6e47295749db31ea1277cc6ae90/7fba88e1",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "New": "0",
+        "Updated": "0"
+      },
+      "createdTime": "2020-04-05T18:37:07.000Z"
+    },
+    {
+      "id": "recmvCVtJ9Abw63oe",
+      "fields": {
+        "web-name": "nasal-cannulas",
+        "Type": "Airway support",
+        "Old Document Address": "https://docs.google.com/document/d/1YCAEBrFEnB7jrYekl6afGT0P-05H9ZJUmf7XPKKz7y0",
+        "Doc ID": "1YCAEBrFEnB7jrYekl6afGT0P-05H9ZJUmf7XPKKz7y0",
+        "KD Category ID": "no designs",
+        "Display Name": "Nasal Cannulas",
+        "Supply Category Images": ["recuDePJ6Qe0rNw4W"],
+        "Medical Supply Content": ["rec7QGpmWjteKXQP3"],
+        "Doc-Complete": ["partial"],
+        "Order": 1000,
+        "Date Added": "2020-04-01",
+        "Last Updated": "2020-04-01",
+        "Computed Doc Link": "https://docs.google.com/document/d/1YCAEBrFEnB7jrYekl6afGT0P-05H9ZJUmf7XPKKz7y0",
+        "CoverImage": [
+          {
+            "id": "attlrn3GZYkoAlSAc",
+            "url": "https://dl.airtable.com/.attachments/f2b38aa2c6752c62cc153ad6df9b7cc0/05500223/nasal-cannula.png",
+            "filename": "nasal-cannula.png",
+            "size": 5364,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/6e383ba7a9bf937e257e347f1b7fc245/f8f6993f",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f57027da5a13d2f3b06e8931f1997857/f63f5e6f",
+                "width": 201,
+                "height": 201
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/84191cccf29d7ff37db98aed8fde1827/2023fe83",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "New": "0",
+        "Updated": "0"
+      },
+      "createdTime": "2020-04-05T18:37:07.000Z"
+    },
+    {
+      "id": "recn7M7QGVtiE2VUk",
+      "fields": {
+        "web-name": "h202-sterilization",
+        "Type": "Decontamination/Sterilization",
+        "KD Category ID": "no designs",
+        "Display Name": "H202 Sterilization",
+        "Supply Category Images": ["rect2DJr8VtX0xIHi"],
+        "Medical Supply Content": ["recqllgqmAtCtAFix"],
+        "Doc-Complete": ["incomplete"],
+        "Order": 1000,
+        "Date Added": "2020-04-01",
+        "Last Updated": "2020-04-01",
+        "Computed Doc Link": "https: //docs.google.com/document/d/",
+        "CoverImage": [
+          {
+            "id": "attbgavCrUms9PQUs",
+            "url": "https://dl.airtable.com/.attachments/21a42b564f06a6dd82cc432c8f67656b/6bf03126/H2O2.png",
+            "filename": "H2O2.png",
+            "size": 6698,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e57e7dacacddc7a9bcfab8c74b91a3ca/071421ea",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/df79269076a56b8cbcd2dff686a9aa98/37f713a4",
+                "width": 201,
+                "height": 201
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/eb603db442b92a1b039c63cab612364b/136c83a4",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "New": "0",
+        "Updated": "0"
+      },
+      "createdTime": "2020-05-14T18:00:40.000Z"
+    },
+    {
+      "id": "recnxX3c6LgqTmXed",
+      "fields": {
+        "web-name": "bias-tape-makers",
+        "Type": "Manufacturing Infrastructure",
+        "PPE Designs List": [
+          "recMkctN6oNL5Y6mx",
+          "rec7FgrVbRRbRY1OV",
+          "recvJsOLSWeJwlxFM",
+          "recc5Y9gtCN92RwlQ",
+          "recuzTnslS0FVnK1n",
+          "recGVdptGULoZXIQu",
+          "recdSVfD2ePdMMyyl"
+        ],
+        "KD Category ID": "09",
+        "Display Name": "Bias Tape Makers",
+        "Supply Category Images": ["rec6sGRnkTpgoOHcb"],
+        "Medical Supply Content": ["recuOW6NkPFtw3FsS"],
+        "Doc-Complete": ["complete"],
+        "Project-Link Complete": true,
+        "Category Information Links": "One-Shot Bias Tape Maker, Clippable Bias Tape Maker, 3D Simple Bias Tape Maker, 4 cm/5 cm Bias Tape Maker, Bias Tape Folding Guide, Wide Base and Wide Base Double Fold Bias Tape Makers",
+        "Order": 40,
+        "Date Added": "2020-04-01",
+        "Last Updated": "2020-04-01",
+        "Computed Doc Link": "https://docs.google.com/document/d/",
+        "CoverImage": [
+          {
+            "id": "attJbCxMI9lwf4506",
+            "url": "https://dl.airtable.com/.attachments/ae57a49186f35f79233332dfcd0258d6/e677ba32/bias-tape-maker.png",
+            "filename": "bias-tape-maker.png",
+            "size": 3633,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/75ef3bd94c25c351eb11df425444392d/4959e5ef",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/72d4239a8d87a96ded09a577a09989d0/5377c967",
+                "width": 201,
+                "height": 201
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/91cbf70b0a2443725060d9b45062b981/08575fc2",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "New": "0",
+        "Updated": "0"
+      },
+      "createdTime": "2020-05-08T03:35:23.000Z"
+    },
+    {
+      "id": "recoHHypdLD4H752m",
+      "fields": {
+        "web-name": "negative-pressure-rooms",
+        "Type": "Hospital Expansion/Conversion",
+        "Old Document Address": "https://docs.google.com/document/d/1YEdkGqXlKNM7Z9uS7qCmPdYOXpEdKDaMbc5UQuh3q_g",
+        "Doc ID": "1YEdkGqXlKNM7Z9uS7qCmPdYOXpEdKDaMbc5UQuh3q_g",
+        "KD Category ID": "no designs",
+        "Display Name": "Negative Pressure Rooms",
+        "Supply Category Images": ["rec4VCZEtgEwDwvz0"],
+        "Medical Supply Content": ["recd4rxMU82wLHJsf"],
+        "Doc-Complete": ["partial"],
+        "Order": 1000,
+        "Date Added": "2020-04-01",
+        "Last Updated": "2020-04-01",
+        "Computed Doc Link": "https://docs.google.com/document/d/1YEdkGqXlKNM7Z9uS7qCmPdYOXpEdKDaMbc5UQuh3q_g",
+        "CoverImage": [
+          {
+            "id": "attB3KItNfnhAcUxc",
+            "url": "https://dl.airtable.com/.attachments/dba54450a0242f2a9dc1c289fda92d19/18d40de6/negative-pressure-room.png",
+            "filename": "negative-pressure-room.png",
+            "size": 5615,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/3975283bdf6cba1f3455448dab5bd7b9/d68f3a2a",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/dfdbcf26e709cc430c8dfe4d37ccf14d/7addbd61",
+                "width": 201,
+                "height": 201
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/576a7b8a83e8f2ccb5818ac22f9216c6/8c4e4dd2",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "New": "0",
+        "Updated": "0"
+      },
+      "createdTime": "2020-04-05T18:37:07.000Z"
+    },
+    {
+      "id": "recpmpkPjygVSiXJy",
+      "fields": {
+        "web-name": "face-shields-ffp",
+        "Type": "Protective Gear",
+        "Old Document Address": "https://drive.google.com/open?id=1TIhn5NiCJH6AGFPtoTSy4Abj76YnfNFlDjK5LJk4eKs",
+        "Doc ID": "1TIhn5NiCJH6AGFPtoTSy4Abj76YnfNFlDjK5LJk4eKs",
+        "PPE Designs List": [
+          "recGmIpa7nQ803vG3",
+          "recMfj0BiNBwvvRN5",
+          "recwImLej9IwSWlnI",
+          "recFHKp7ickR6JIwr",
+          "recOXOFz6VkpdhOXA",
+          "recZmnJx2x0R0fW97",
+          "rec5eOenG3HG39SYo",
+          "recMv68mhb01mqyVb",
+          "rec0lvELP9PAATEK0",
+          "recxGB0fDIgJUbfhH",
+          "recgdZXQlozqXp7AU",
+          "recHsQOf1b5YbKGcS",
+          "recAGFmsCrA1yiWVR",
+          "recVGdkWWjEabL3s3",
+          "recWRMvNdxqY6RKZ0",
+          "rec980qvpg58Nn7Eb",
+          "rec2pExEIzhm5h3Jb",
+          "recC5OjIA5H4iC5DL",
+          "recAiFaN4HxfVJPo5",
+          "rec12vicdjJLM2buf",
+          "recYIuAuFlM6bzJ4x",
+          "recG7FkOFC4wfktGk",
+          "recjLr5hhoodXI5NV",
+          "rec4ClkFAVUQexj1m",
+          "recLU9ooiHyqbECZk",
+          "recExZ22isCcpseZq",
+          "recXStzz3UrUIjDLF",
+          "recAmsfRaWIsH5hIj",
+          "recD5TOs9jHzQvySV"
+        ],
+        "KD Category ID": "01",
+        "Display Name": "Face Shields",
+        "Supply Category Images": ["recBLO3QKFTYPI4Qq"],
+        "Medical Supply Content": ["recsnKAffjruVYUY4"],
+        "Doc-Complete": ["complete"],
+        "Project-Link Complete": true,
+        "Order": 100,
+        "Date Added": "2020-04-01",
+        "Last Updated": "2020-07-02",
+        "Computed Doc Link": "https://docs.google.com/document/d/1TIhn5NiCJH6AGFPtoTSy4Abj76YnfNFlDjK5LJk4eKs",
+        "CoverImage": [
+          {
+            "id": "attFl4WUGqQcVuoMC",
+            "url": "https://dl.airtable.com/.attachments/19c27801519657c0c3f3c4c22e446058/583479ba/face-shield.png",
+            "filename": "face-shield.png",
+            "size": 4689,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/1d88f1f48e05cad5807c8f8ef17a3528/cad8ad30",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/12752c67c1ffedcf4ffdb482f4cdb0a7/fb67d861",
+                "width": 201,
+                "height": 201
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/2ef0aa2da1f0f8cd0e4f39f565fb7c88/a38b6b7d",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "New": "0",
+        "Updated": "0"
+      },
+      "createdTime": "2020-04-05T18:37:07.000Z"
+    },
+    {
+      "id": "recprwe5kZEieNHlx",
+      "fields": {
+        "web-name": "hand-sanitizer",
+        "Type": "Decontamination/Sterilization",
+        "Old Document Address": "https://drive.google.com/open?id=1jRGGMLxf6GJCXKAwHCCcLYlNBxTpFFJNVRbRSzvNimk",
+        "Doc ID": "1jRGGMLxf6GJCXKAwHCCcLYlNBxTpFFJNVRbRSzvNimk",
+        "PPE Designs List": ["rec8IoQiH5ONeLPGH", "reciEyD6EI67otmsL"],
+        "KD Category ID": "06",
+        "Display Name": "Hand Sanitizer",
+        "Supply Category Images": ["rec1bwZu1BdU3C7Ig"],
+        "Medical Supply Content": ["recmUUhyIPHafUQxJ"],
+        "Doc-Complete": ["complete"],
+        "Project-Link Complete": true,
+        "Order": 160,
+        "Date Added": "2020-04-01",
+        "Last Updated": "2020-04-01",
+        "Computed Doc Link": "https://docs.google.com/document/d/1jRGGMLxf6GJCXKAwHCCcLYlNBxTpFFJNVRbRSzvNimk",
+        "CoverImage": [
+          {
+            "id": "attrMvPuG5FA7NQwz",
+            "url": "https://dl.airtable.com/.attachments/f06622040a204cd7689a11a659fff5de/6a37062b/hand-sanitizer.png",
+            "filename": "hand-sanitizer.png",
+            "size": 3404,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/37689666f6caa33ffeaf5e13bcc6e532/ba95ccee",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/2480cc91b3ff89c6c97948cb51cd04dd/513ee014",
+                "width": 201,
+                "height": 201
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/b482cb5ed5bd7fd356e8abb8dbb55eb3/3dda7e1e",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "New": "0",
+        "Updated": "0"
+      },
+      "createdTime": "2020-04-05T18:37:07.000Z"
+    },
+    {
+      "id": "recrh4ewuEV0SjjUH",
+      "fields": {
+        "web-name": "hand-washing-stations",
+        "Type": "Decontamination/Sterilization",
+        "PPE Designs List": [
+          "recfHEVFTsUHndgCF",
+          "rec7TURyYwu3zW9T7",
+          "recRJ7YUdCSziKBr7",
+          "recDEqhLAw6Occ6vO",
+          "recm9dBKwDaHVwnKv",
+          "recFCpJlHOzUJzABd",
+          "reczoLi5djuhwJJie",
+          "recM2GFG6nxZP7VIw"
+        ],
+        "KD Category ID": "10",
+        "Display Name": "Hand Washing Stations",
+        "Supply Category Images": ["recUWjD5vZ6XPioEt"],
+        "Medical Supply Content": ["reccwW5dQn6rX3V5V"],
+        "Doc-Complete": ["complete"],
+        "Project-Link Complete": true,
+        "Category Information Links": "Matamoros Hand Washing Station, DIY Camping Hand Washing System (with pump), Portable Hand Washing Station (with pump),  Portable Hand Washing Station , Toe-Tapper, Tippy Tap",
+        "Order": 60,
+        "Date Added": "2020-04-01",
+        "Last Updated": "2020-04-01",
+        "Computed Doc Link": "https://docs.google.com/document/d/",
+        "CoverImage": [
+          {
+            "id": "attdkkgDJ03WqURqI",
+            "url": "https://dl.airtable.com/.attachments/795947b46b1159a3e4de342fe33cf3dd/47b0ecec/hand-washing-station.png",
+            "filename": "hand-washing-station.png",
+            "size": 4181,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/5645b6cd0154ea0df75c2408dbc23db7/322f7dcf",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/600a0e29e8e2b1078bba4e7456a72abd/e6e03ce3",
+                "width": 201,
+                "height": 201
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/fd65a92cdc83222af95ffa6347933a15/7ca41845",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "New": "0",
+        "Updated": "0"
+      },
+      "createdTime": "2020-05-10T05:18:58.000Z"
+    },
+    {
+      "id": "recso6M2Qiz1qbUmM",
+      "fields": {
+        "web-name": "flow-splitters",
+        "Type": "Airway support",
+        "Old Document Address": "https://docs.google.com/document/d/1B6q9n63-y6-crC3k4M9B0QhoquSv_4di0lQHyfhTrsc",
+        "Doc ID": "1B6q9n63-y6-crC3k4M9B0QhoquSv_4di0lQHyfhTrsc",
+        "KD Category ID": "no designs",
+        "Display Name": "Flow-Splitters",
+        "Supply Category Images": ["recXbe76cxLKJS5by"],
+        "Medical Supply Content": ["recPeFvpmW4XrTcIs"],
+        "Doc-Complete": ["partial"],
+        "Order": 1000,
+        "Date Added": "2020-04-01",
+        "Last Updated": "2020-04-01",
+        "Computed Doc Link": "https://docs.google.com/document/d/1B6q9n63-y6-crC3k4M9B0QhoquSv_4di0lQHyfhTrsc",
+        "CoverImage": [
+          {
+            "id": "attk34ffaZ7IsQCUW",
+            "url": "https://dl.airtable.com/.attachments/99c5765533aa3bc5f2a15c899afff41d/5b4461ca/flow-splitter.png",
+            "filename": "flow-splitter.png",
+            "size": 6788,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/2b744f8c8243e5e8937c26a802b9e267/e65fc47a",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/710025d70f8a800c10887bbfbdb1a3d1/1a3c1599",
+                "width": 201,
+                "height": 201
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f6069afd6f8db84c55b3aa13680d4414/d7207f35",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "New": "0",
+        "Updated": "0"
+      },
+      "createdTime": "2020-04-05T18:37:07.000Z"
+    },
+    {
+      "id": "recvYfOXNT3JwB4o7",
+      "fields": {
+        "web-name": "scrub-caps",
+        "Type": "Protective Gear",
+        "PPE Designs List": [
+          "recnkXLDi0d9SARrq",
+          "recU2iGAm3ntJS33X",
+          "recpDVfj7iinak809",
+          "recivOxUIPNq7Qd63",
+          "rec3gP9p0Vj9v5BU4",
+          "recMGf2Q29cFW6Kp3",
+          "rect1udFNZjWn4z1U",
+          "reczajQTxVlf2kNHC"
+        ],
+        "KD Category ID": "18",
+        "Display Name": "Scrub Caps",
+        "Supply Category Images": ["rec4XDUxobB6sxebM"],
+        "Medical Supply Content": ["rec9lBsrYZHYuEnhc"],
+        "Doc-Complete": ["incomplete"],
+        "Project-Link Complete": true,
+        "Order": 80,
+        "Date Added": "2020-04-01",
+        "Last Updated": "2020-04-01",
+        "Computed Doc Link": "https: //docs.google.com/document/d/",
+        "CoverImage": [
+          {
+            "id": "attmk1QM4jfkMfPwo",
+            "url": "https://dl.airtable.com/.attachments/5733ae047ce9efe751653206f5577cd2/c5c42b28/scrub-cap.png",
+            "filename": "scrub-cap.png",
+            "size": 4536,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e9630f12da828066433cb4c1acd4c3c3/1b0ee116",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/902f42854102f1e059ad6dca5e4d8c27/58067ded",
+                "width": 201,
+                "height": 201
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a342f2538e0364e6795ce4b7f6aa9818/1c8466a8",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "New": "0",
+        "Updated": "0"
+      },
+      "createdTime": "2020-05-14T21:00:34.000Z"
+    },
+    {
+      "id": "recwfUkcLe04KLBQN",
+      "fields": {
+        "web-name": "testing-lab",
+        "Type": "Assessment",
+        "PPE Designs List": [
+          "rec9dfJQuUQlvZlY9",
+          "recdjGz1RAomOMJdM",
+          "recgqzUfOm9vcqVlf",
+          "recFwHJGnm3O95X3W",
+          "recwuV7w2jlch5uRS"
+        ],
+        "KD Category ID": "24",
+        "Display Name": "Testing & Labs",
+        "Supply Category Images": ["rece3huWpVDGEoaLg"],
+        "Medical Supply Content": ["recpFRahB8IgbSUdP"],
+        "Order": 180,
+        "Date Added": "2020-07-02",
+        "Last Updated": "2020-04-01",
+        "Computed Doc Link": "https://docs.google.com/document/d/",
+        "CoverImage": [
+          {
+            "id": "atteP6I2Ad32SVMTl",
+            "url": "https://dl.airtable.com/.attachments/7bce2c0ec48167f47e36a2b0d4da1121/cf4103f5/testing.png",
+            "filename": "testing.png",
+            "size": 1959,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7f2f0af42af5328570a8694b2a8d67fe/57c2c670",
+                "width": 36,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/2406b9473244124fc0eb8a2c83b12f41/f22cad5f",
+                "width": 201,
+                "height": 201
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/ed66f1ec023568d0514d735f4776c3b0/879ba184",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "New": "0",
+        "Updated": "0"
+      },
+      "createdTime": "2020-07-02T22:12:55.000Z"
+    }
+  ]
+}

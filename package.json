@@ -1,0 +1,22 @@
+{
+  "name": "osms-cloud_functions",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "url": "https://github.com/Open-Source-Medical-Supplies/gc-at-cache_update-node.git"
+  },
+  "main": "osms-cloud_function-at_cache.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "functions-framework --target=update"
+  },
+  "author": "",
+  "license": "Creative Commons Attribution-ShareAlike 4.0 International License",
+  "dependencies": {
+    "@google-cloud/storage": "^5.1.2",
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {
+    "@google-cloud/functions-framework": "^1.7.1"
+  }
+}
