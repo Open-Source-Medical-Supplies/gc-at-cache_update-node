@@ -1,0 +1,13 @@
+[ {
+  "method": ["GET"],
+  "responseHeader": ["Content-Type"],
+  "maxAgeSeconds": 3600,
+	"origin": [
+    "http://localhost:3000",
+    "http://dev-open-source-medical-supplies.pantheonsite.io",
+    "https://dev-open-source-medical-supplies.pantheonsite.io",
+    "http://test-open-source-medical-supplies.pantheonsite.io",
+    "https://test-open-source-medical-supplies.pantheonsite.io",
+    "http://opensourcemedicalsupplies.org"
+  ]
+} ]
