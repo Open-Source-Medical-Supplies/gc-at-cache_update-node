@@ -81,8 +81,8 @@ exports.update = (req, res) => {
           (e) => fileSaveResponse(e, spaced)
         );
       },
-      (_) => {
-        console.log(spaced + " failed at airtable GET");
+      (e) => {
+        console.log(spaced + " failed at airtable GET", e);
       }
     );
   });
