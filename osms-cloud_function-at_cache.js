@@ -12,6 +12,11 @@ const config = {
 };
 const airtableBaseURL = "https://api.airtable.com/v0/apppSjiUMTolFIo1P/";
 
+const VIEWS = {
+  GRID_VIEW: 'Grid%20view',
+  DEFAULT_GRID: 'Default%20Grid',
+  DEFAULT_VIEW: 'Default%20View'
+};
 /**
  * A Table Object to upload
  * 
@@ -19,7 +24,8 @@ const airtableBaseURL = "https://api.airtable.com/v0/apppSjiUMTolFIo1P/";
  * @property {string} encoded - UriEncoded table name for the URL endpoint
  * @property {string} spaced - Table name as it appears in the Airtable tabs
  * @property {string} underscored - Underscored variant of the spaced name, used as the uploaded file's name
- * @property {string} type - String that corresponds to the class / mapping function in the frontend
+ * @property {string} type - Corresponds to the class / mapping function in the frontend
+ * @property {string} view - The airtable view to query
  */
 
 /**
@@ -30,31 +36,36 @@ const airtableURLs = [
     encoded: "Category%20Information",
     spaced: "Category Information",
     underscored: "Category_Information",
-    type: 'CategoryInfo'
+    type: 'CategoryInfo',
+    view: VIEWS.GRID_VIEW
   },
   {
     encoded: "Medical%20Supply%20Categories",
     spaced: "Medical Supply Categories",
     underscored: "Medical_Supply_Categories",
-    type: 'CategorySupply'
+    type: 'CategorySupply',
+    view: VIEWS.DEFAULT_GRID
   },
   {
     encoded: "Engineered%20Project%20Pages",
     spaced: "Engineered Project Pages",
     underscored: "Engineered_Project_Pages",
-    type: 'Project'
+    type: 'Project',
+    view: VIEWS.DEFAULT_VIEW
   },
   {
     encoded: "ProjectsFilterMenu",
     spaced: "ProjectsFilterMenu",
     underscored: "ProjectsFilterMenu",
-    type: 'FilterMenu'
+    type: 'FilterMenu',
+    view: VIEWS.GRID_VIEW
   },
   {
     encoded: "Bill%20of%20Materials",
     spaced: "Bill of Materials",
     underscored: "Bill_of_Materials",
-    type: 'Material'
+    type: 'Material',
+    view: VIEWS.GRID_VIEW
   },
 ];
 
@@ -86,8 +97,8 @@ exports.update = (req, res) => {
   );
 
   // add each table's JSON to bucket
-  const requests = airtableURLs.map(({encoded, spaced, underscored}) => {
-    const tableURL = airtableBaseURL + encoded;
+  const requests = airtableURLs.map(({encoded, spaced, underscored, view}) => {
+    const tableURL = airtableBaseURL + encoded + `?view=${view}`;
     const fileName = underscored + ".json";
     // initial call GETs JSON dump from airtable base per table
     return axios.get(tableURL, config).then(
