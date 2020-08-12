@@ -65,7 +65,7 @@ exports.update = (req, res) => {
         // create gFile
         const newFile = bucket.file(fileName);
         // upload gFile
-        return newFile.save(
+        newFile.save(
           JSON.stringify(data.records), 
           (e) => fileSaveResponse(e, spaced)
         );
