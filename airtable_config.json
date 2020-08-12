@@ -1,0 +1,37 @@
+[
+  {
+    "encoded": "Category%20Information",
+    "spaced": "Category Information",
+    "underscored": "Category_Information",
+    "type": "CategoryInfo",
+    "view": "Grid%20view"
+  },
+  {
+    "encoded": "Medical%20Supply%20Categories",
+    "spaced": "Medical Supply Categories",
+    "underscored": "Medical_Supply_Categories",
+    "type": "CategorySupply",
+    "view": "Default%20Grid"
+  },
+  {
+    "encoded": "Engineered%20Project%20Pages",
+    "spaced": "Engineered Project Pages",
+    "underscored": "Engineered_Project_Pages",
+    "type": "Project",
+    "view": "Default%20View"
+  },
+  {
+    "encoded": "ProjectsFilterMenu",
+    "spaced": "ProjectsFilterMenu",
+    "underscored": "ProjectsFilterMenu",
+    "type": "FilterMenu",
+    "view": "Grid%20view"
+  },
+  {
+    "encoded": "Bill%20of%20Materials",
+    "spaced": "Bill of Materials",
+    "underscored": "Bill_of_Materials",
+    "type": "Material",
+    "view": "Grid%20view"
+  }
+]

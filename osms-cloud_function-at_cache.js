@@ -1,22 +1,5 @@
 "use strict";
 
-const axios = require("axios");
-const { Storage } = require("@google-cloud/storage");
-const { AT_KEY } = require('./at_key.json');
-
-// airtable config
-const config = {
-  headers: {
-    Authorization: "Bearer " + AT_KEY,
-  },
-};
-const airtableBaseURL = "https://api.airtable.com/v0/apppSjiUMTolFIo1P/";
-
-const VIEWS = {
-  GRID_VIEW: 'Grid%20view',
-  DEFAULT_GRID: 'Default%20Grid',
-  DEFAULT_VIEW: 'Default%20View'
-};
 /**
  * A Table Object to upload
  * 
@@ -28,46 +11,22 @@ const VIEWS = {
  * @property {string} view - The airtable view to query
  */
 
+
+const axios = require("axios");
+const { Storage } = require("@google-cloud/storage");
+const { AT_KEY } = require('./at_key.json');
+
+// airtable config
+const httpConfig = {
+  headers: {
+    Authorization: "Bearer " + AT_KEY,
+  },
+};
+const airtableBaseURL = "https://api.airtable.com/v0/apppSjiUMTolFIo1P/";
 /**
  * @type {TableObject[]} - Table objects to upload
  */
-const airtableURLs = [
-  {
-    encoded: "Category%20Information",
-    spaced: "Category Information",
-    underscored: "Category_Information",
-    type: 'CategoryInfo',
-    view: VIEWS.GRID_VIEW
-  },
-  {
-    encoded: "Medical%20Supply%20Categories",
-    spaced: "Medical Supply Categories",
-    underscored: "Medical_Supply_Categories",
-    type: 'CategorySupply',
-    view: VIEWS.DEFAULT_GRID
-  },
-  {
-    encoded: "Engineered%20Project%20Pages",
-    spaced: "Engineered Project Pages",
-    underscored: "Engineered_Project_Pages",
-    type: 'Project',
-    view: VIEWS.DEFAULT_VIEW
-  },
-  {
-    encoded: "ProjectsFilterMenu",
-    spaced: "ProjectsFilterMenu",
-    underscored: "ProjectsFilterMenu",
-    type: 'FilterMenu',
-    view: VIEWS.GRID_VIEW
-  },
-  {
-    encoded: "Bill%20of%20Materials",
-    spaced: "Bill of Materials",
-    underscored: "Bill_of_Materials",
-    type: 'Material',
-    view: VIEWS.GRID_VIEW
-  },
-];
+const airtableConfig = require("./airtable_config.json")
 
 // Bucket config
 const projectId = "osms-website";
@@ -92,16 +51,16 @@ exports.update = (req, res) => {
   // add list of tables to bucket for frontend to programatically reference
   const listFile = bucket.file('table_list.json');
   listFile.save(
-    JSON.stringify(airtableURLs),
+    JSON.stringify(airtableConfig),
     (e) => fileSaveResponse(e, 'List')
   );
 
   // add each table's JSON to bucket
-  const requests = airtableURLs.map(({encoded, spaced, underscored, view}) => {
+  const requests = airtableConfig.map(({encoded, spaced, underscored, view}) => {
     const tableURL = airtableBaseURL + encoded + `?view=${view}`;
     const fileName = underscored + ".json";
     // initial call GETs JSON dump from airtable base per table
-    return axios.get(tableURL, config).then(
+    return axios.get(tableURL, httpConfig).then(
       ({data}) => {
         // create gFile
         const newFile = bucket.file(fileName);
