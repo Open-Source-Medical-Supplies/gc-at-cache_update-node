@@ -38,5 +38,13 @@
     "camelCased": "billOfMaterials",
     "type": "Material",
     "view": "Grid%20view"
+  },
+  {
+    "encoded": "IETF%20Translations",
+    "spaced": "IETF Translations",
+    "underscored": "IETF_Translations",
+    "camelCased": "IETF Translations",
+    "type": "Translations",
+    "view": "Grid%20view"
   }
 ]
