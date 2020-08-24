@@ -17,6 +17,7 @@
     "axios": "^0.19.2"
   },
   "devDependencies": {
-    "@google-cloud/functions-framework": "^1.7.1"
+    "@google-cloud/functions-framework": "^1.7.1",
+    "eslint": "^7.7.0"
   }
 }

@@ -11,13 +11,15 @@
  * @property {string} view - The airtable view to query
  */
 
-
 const axios = require("axios");
 const { Storage } = require("@google-cloud/storage");
 const { AT_KEY } = require('./at_key.json');
 
 // airtable config
 const httpConfig = {
+  params: {
+    offset: ''
+  },
   headers: {
     Authorization: "Bearer " + AT_KEY,
   },
@@ -45,9 +47,12 @@ const fileSaveResponse = (e, name = '') => {
  * Responds to any HTTP request.
  *
  * @param {!express:Request} req HTTP request context.
+ * @param {boolean} req.query.test - either as 'query' or 'body' will prepend the filename with 'test_'
+ * @param {boolean} req.body.test - see above
  * @param {!express:Response} res HTTP response context.
  */
 exports.update = (req, res) => {
+  const test = (req.query && req.query.test) || (req.body && req.body.test);
   // add list of tables to bucket for frontend to programatically reference
   const listFile = bucket.file('table_list.json');
   listFile.save(
@@ -56,24 +61,33 @@ exports.update = (req, res) => {
   );
 
   // add each table's JSON to bucket
-  const requests = airtableConfig.map(({encoded, spaced, underscored, view}) => {
+  const requests = airtableConfig.map(async({encoded, spaced, underscored, view}) => {
+    let allResponses = [];
+
     const tableURL = airtableBaseURL + encoded + `?view=${view}`;
-    const fileName = underscored + ".json";
+    const fileName = (test ? 'test_' : '') + underscored + ".json";
     // initial call GETs JSON dump from airtable base per table
-    return axios.get(tableURL, httpConfig).then(
-      ({data}) => {
-        // create gFile
-        const newFile = bucket.file(fileName);
-        // upload gFile
-        newFile.save(
-          JSON.stringify(data.records), 
-          (e) => fileSaveResponse(e, spaced)
-        );
-      },
-      (e) => {
-        console.log(spaced + " failed at airtable GET", e);
-      }
-    );
+    do {
+      await axios.get(tableURL, httpConfig).then(
+        ({data}) => {
+          httpConfig.params.offset = data.offset || ''
+          allResponses = allResponses.concat(data.records);
+        },
+        (e) => {
+          console.log(spaced + " failed at airtable GET", e);
+        }
+      );
+    } while (httpConfig.params.offset !== '') {
+      console.log('hit while')
+      // create gFile
+      const newFile = bucket.file(fileName);
+      // upload gFile
+      newFile.save(
+        JSON.stringify(allResponses), 
+        (e) => fileSaveResponse(e, spaced)
+      );
+    }
+    
   });
 
   Promise.all(requests).then(
