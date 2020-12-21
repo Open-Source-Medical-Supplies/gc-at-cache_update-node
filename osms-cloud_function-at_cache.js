@@ -24,9 +24,10 @@ const httpConfig = {
     Authorization: "Bearer " + AT_KEY,
   },
 };
-const airtableBaseURL = "https://api.airtable.com/v0/apppSjiUMTolFIo1P/";
+const airtableTableID = "appn2eSNAIXDz50Dx";
+const airtableBaseURL = `https://api.airtable.com/v0/${airtableTableID}/`;
 /**
- * @type {TableObject[]} - Table objects to upload
+ * @type {TableObject[]} airtableConfig - Table objects to upload
  */
 const airtableConfig = require("./airtable_config.json")
 
